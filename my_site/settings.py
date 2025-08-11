@@ -99,4 +99,4 @@ MEDIA_URL = '/files/'
 MEDIA_ROOT = BASE_DIR / 'uploads'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-CSRF_TRUSTED_ORIGINS = ['https://django-project-production-30e3.up.railway.app/']
+CSRF_TRUSTED_ORIGINS = ['https://django-project-production-30e3.up.railway.app']
